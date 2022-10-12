@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 hot fix
+=======
+기능 1 추가
+>>>>>>> 522100f (기능 1 추가)
